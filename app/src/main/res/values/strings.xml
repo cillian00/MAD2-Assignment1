@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">gym</string>
+    <string name="button_addgym">Add gym</string>
+    <string name="hint_gymTitle">gym Title</string>
+    <string name="hint_gymDescription">Description </string>
+    <string name="menu_addgym">Add</string>
+    <string name="menu_cancelgym">Cancel</string>
+    <string name="enter_gym_title"> Please enter a gym Title </string>
+    <string name="save_gym"> Save gym </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_gym_image">Select gym image</string>
+    <string name="change_gym_image">Change gym image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click here to login now!</string>
+    <string name="click_to_register">Click here to register now!</string>
+    <string name="button_delete">Delete</string>
+    <string name="hint_gymContactNumber">Contact Number\n</string>
+    <string name="hint_gymActivtiy">Activity Status\n</string>
+    <string-array name="filter_options">
+            <item></item>
+            <item>Team Ryano</item>
+            <item>SBG</item>
+        </string-array>
+</resources>

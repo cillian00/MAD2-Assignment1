@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define your theme colors here -->
+    <color name="colorPrimary">#D32F2F</color> <!-- Red, make sure this is defined -->
+    <color name="colorAccent">#000000</color> <!-- Red -->
+    <color name="colorPrimaryDark">#D32F2F</color> <!-- Dark Red -->
+    <color name="white">#FFFFFF</color> <!-- White -->
+    <color name="black">#000000</color> <!-- Black -->
+</resources>
