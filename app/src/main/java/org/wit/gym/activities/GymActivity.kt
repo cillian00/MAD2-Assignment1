@@ -68,7 +68,7 @@ class GymActivity : AppCompatActivity() {
             Toast.makeText(this, "Selected Number: $newVal", Toast.LENGTH_SHORT).show()
         }
 
-        binding.btnAdd.setOnClickLiGT stener() {
+        binding.btnAdd.setOnClickListener() {
             gym.title = binding.gymTitle.text.toString()
             gym.description = binding.description.text.toString()
 
